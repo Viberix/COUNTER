@@ -1,4 +1,4 @@
-/* Stili globali */
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #89f7fe, #66a6ff);
@@ -10,7 +10,7 @@ body {
     color: #333;
   }
   
-  /* Stile del contenitore principale */
+
   .container {
     background: rgba(255, 255, 255, 0.9);
     border-radius: 15px;
@@ -21,7 +21,7 @@ body {
     width: 90%;
   }
   
-  /* Stile del contatore */
+
   .counter {
     font-size: 4rem;
     font-weight: bold;
@@ -31,7 +31,7 @@ body {
     border-radius: 10px;
   }
   
-  /* Stile dei pulsanti */
+
   button {
     font-size: 1.5rem;
     padding: 15px 25px;
@@ -44,7 +44,7 @@ body {
     transition: background-color 0.3s ease, transform 0.2s ease;
   }
   
-  /* Effetto hover e attivo sui pulsanti */
+
   button:hover {
     background-color: #89f7fe;
     transform: translateY(-3px);
